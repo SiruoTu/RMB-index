@@ -1,4 +1,4 @@
-# RMB-index
+# RMB Index
 
 参考链接：
 
